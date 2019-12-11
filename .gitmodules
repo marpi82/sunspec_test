@@ -1,0 +1,9 @@
+[submodule "pymodedge/pysunspec"]
+	path = pymodedge/pysunspec
+	url = https://github.com/sunspec/pysunspec
+[submodule "pysunspec"]
+	path = pysunspec
+	url = https://github.com/sunspec/pysunspec
+[submodule "modsunspec/pysunspec"]
+	path = modsunspec/pysunspec
+	url = https://github.com/sunspec/pysunspec.git

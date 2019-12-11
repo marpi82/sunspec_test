@@ -7,7 +7,7 @@ Do poprawnego uruchomienia skryptu potrzebna jest biblioteka pymodbus którą mo
 ## Pobranie z GitHub
 > git clone --recursive https://github.com/marpi82/sunspec_test.git
 > cd modsunspec
-## Parametry użądzenia sunspec
+## Parametry urządzenia sunspec
 Należy wyedytować plik *test.py*
 > nano test.py
 i zmienić w 11 linii:

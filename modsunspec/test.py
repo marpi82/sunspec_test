@@ -53,6 +53,6 @@ if __name__ == "__main__":
                             value = str(point.value).rstrip('\0')
                         txt = '%-40s %20s %-10s' % (label, value, str(units))
                         print(txt)
-                        f.write(txt)
+                        f.write(txt + '\n')
         f.close()
     sd.close()

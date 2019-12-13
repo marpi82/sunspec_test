@@ -1,10 +1,82 @@
 
-Timestamp: 2019-12-11T18:31:46Z
+Timestamp: 2019-12-13T15:16:17Z
 model: Common (1)
-      Manufacturer (Mn):                           SolarEdge                  Model (Md):                              SE7K-RW0TEBNN4                 Version (Vr):                            0004.0007.0026                 Serial Number (SN):                            7E16F37C                 Device Address (DA):                                  2           
+      Manufacturer (Mn):                           SolarEdge            
+      Model (Md):                              SE7K-RW0TEBNN4           
+      Version (Vr):                            0004.0007.0026           
+      Serial Number (SN):                            7E16F37C           
+      Device Address (DA):                                  2           
+
 model: Inverter (Three Phase) (103)
-      Amps (A):                                           0.0 A               Amps PhaseA (AphA):                                 0.0 A               Amps PhaseB (AphB):                                 0.0 A               Amps PhaseC (AphC):                                 0.0 A               Phase Voltage AB (PPVphAB):          406.90000000000003 V               Phase Voltage BC (PPVphBC):                       403.1 V               Phase Voltage CA (PPVphCA):                       404.0 V               Phase Voltage AN (PhVphA):                        235.9 V               Phase Voltage BN (PhVphB):                        232.4 V               Phase Voltage CN (PhVphC):                        232.3 V               Watts (W):                                            0 W               Hz (Hz):                             49.980000000000004 Hz              VA (VA):                                              0 VA              VAr (VAr):                                            0 var             PF (PF):                                              0 Pct             WattHours (WH):                                  631972 Wh              DC Voltage (DCV):                                   0.0 V               DC Watts (DCW):                                       0 W               Heat Sink Temperature (TmpSnk):                     0.0 C               Operating State (St):                                 2                 Vendor Operating State (StVnd):                       0                 Vendor Event Bitfield 1 (EvtVnd1):           0x00000000                 Vendor Event Bitfield 4 (EvtVnd4):           0x00000000           
+      Amps (A):                                           0.0 A         
+      Amps PhaseA (AphA):                                 0.0 A         
+      Amps PhaseB (AphB):                                 0.0 A         
+      Amps PhaseC (AphC):                                 0.0 A         
+      Phase Voltage AB (PPVphAB):          411.20000000000005 V         
+      Phase Voltage BC (PPVphBC):                       408.1 V         
+      Phase Voltage CA (PPVphCA):                       409.3 V         
+      Phase Voltage AN (PhVphA):           237.70000000000002 V         
+      Phase Voltage BN (PhVphB):           235.10000000000002 V         
+      Phase Voltage CN (PhVphC):           236.20000000000002 V         
+      Watts (W):                                            0 W         
+      Hz (Hz):                                          49.99 Hz        
+      VA (VA):                                              0 VA        
+      VAr (VAr):                                            0 var       
+      PF (PF):                                              0 Pct       
+      WattHours (WH):                                  640006 Wh        
+      DC Amps (DCA):                                        0 A         
+      DC Voltage (DCV):                                   0.5 V         
+      DC Watts (DCW):                                       0 W         
+      Heat Sink Temperature (TmpSnk):                     0.0 C         
+      Operating State (St):                                 2           
+      Vendor Operating State (StVnd):                       0           
+      Vendor Event Bitfield 1 (EvtVnd1):           0x00000000           
+      Vendor Event Bitfield 4 (EvtVnd4):           0x00000000           
+
 model: Common (1)
-      Manufacturer (Mn):                             WattNode                 Model (Md):                                         N/A                 Options (Opt):                            Export+Import                 Version (Vr):                                         0                 Serial Number (SN):                                   0                 Device Address (DA):                                  2           
+      Manufacturer (Mn):                             WattNode           
+      Model (Md):                                         N/A           
+      Options (Opt):                            Export+Import           
+      Version (Vr):                                         0           
+      Serial Number (SN):                                   0           
+      Device Address (DA):                                  2           
+
 model: wye-connect three phase (abcn) meter (203)
-      Amps (A):                                           6.9 A               Amps PhaseA (AphA):                                 2.5 A               Amps PhaseB (AphB):                                 2.1 A               Amps PhaseC (AphC):                                 2.2 A               Voltage LN (PhV):                                236.57 V               Phase Voltage AN (PhVphA):                       236.57 V               Phase Voltage BN (PhVphB):                       232.68 V               Phase Voltage CN (PhVphC):                       233.47 V               Voltage LL (PPV):                   -249.64000000000001 V               (PhVphAB):                                      -248.09 V               (PhVphBC):                                      -251.31 V               (PhVphCA):                                      -249.53 V               Hz (Hz):                                          49.97 Hz              Watts (W):                                        -1299 W               Watts phase A (WphA):                              -535 W               Watts phase B (WphB):                              -403 W               Watts phase C (WphC):                              -360 W               VA (VA):                                           1570 VA              VA phase A (VAphA):                                 578 VA              VA phase B (VAphB):                                 497 VA              VA phase C (VAphC):                                 519 VA              VAR (VAR):                                          882 var             VAR phase A (VARphA):                               217 var             VAR phase B (VARphB):                               291 var             VAR phase C (VARphC):                               373 var             PF (PF):                                          80.34 Pct             PF phase A (PFphA):                               90.33 Pct             PF phase B (PFphB):                               81.08 Pct             PF phase C (PFphC):                               69.62 Pct             Total Watt-hours Exported (TotWhExp):               312695 Wh              Total Watt-hours Exported phase A (TotWhExpPhA):               156237 Wh              Total Watt-hours Exported phase B (TotWhExpPhB):                96333 Wh              Total Watt-hours Exported phase C (TotWhExpPhC):               116802 Wh              Total Watt-hours Imported (TotWhImp):               936427 Wh              Total Watt-hours Imported phase A (TotWhImpPhA):               137983 Wh              Total Watt-hours Imported phase B (TotWhImpPhB):               433855 Wh              Total Watt-hours Imported phase C (TotWhImpPhC):               421265 Wh              Events (Evt):                                0x00000000           
+      Amps (A):                                           4.0 A         
+      Amps PhaseA (AphA):                  1.2000000000000002 A         
+      Amps PhaseB (AphB):                                 1.5 A         
+      Amps PhaseC (AphC):                  1.2000000000000002 A         
+      Voltage LN (PhV):                    238.39000000000001 V         
+      Phase Voltage AN (PhVphA):           238.39000000000001 V         
+      Phase Voltage BN (PhVphB):                       236.01 V         
+      Phase Voltage CN (PhVphC):                       237.13 V         
+      Voltage LL (PPV):                               -244.56 V         
+      (PhVphAB):                                      -243.65 V         
+      (PhVphBC):                          -245.92000000000002 V         
+      (PhVphCA):                                       -244.1 V         
+      Hz (Hz):                             49.980000000000004 Hz        
+      Watts (W):                                         -777 W         
+      Watts phase A (WphA):                              -192 W         
+      Watts phase B (WphB):                              -285 W         
+      Watts phase C (WphC):                              -298 W         
+      VA (VA):                                            851 VA        
+      VA phase A (VAphA):                                 267 VA        
+      VA phase B (VAphB):                                 327 VA        
+      VA phase C (VAphC):                                 298 VA        
+      VAR (VAR):                                         -348 var       
+      VAR phase A (VARphA):                              -185 var       
+      VAR phase B (VARphB):                              -159 var       
+      VAR phase C (VARphC):                                -4 var       
+      PF (PF):                                          79.79 Pct       
+      PF phase A (PFphA):                               63.56 Pct       
+      PF phase B (PFphB):                               78.42 Pct       
+      PF phase C (PFphC):                                97.4 Pct       
+      Total Watt-hours Exported (TotWhExp):               315589 Wh        
+      Total Watt-hours Exported phase A (TotWhExpPhA):               157419 Wh        
+      Total Watt-hours Exported phase B (TotWhExpPhB):                97576 Wh        
+      Total Watt-hours Exported phase C (TotWhExpPhC):               117827 Wh        
+      Total Watt-hours Imported (TotWhImp):               959746 Wh        
+      Total Watt-hours Imported phase A (TotWhImpPhA):               142946 Wh        
+      Total Watt-hours Imported phase B (TotWhImpPhB):               442621 Wh        
+      Total Watt-hours Imported phase C (TotWhImpPhC):               431412 Wh        
+      Events (Evt):                                0x00000000           
